@@ -1,5 +1,5 @@
-# Add project dependencies here
-# Example:
-# pandas
-# scikit-learn
-# torch
+streamlit
+pandas
+plotly
+scikit-learn
+numpy
