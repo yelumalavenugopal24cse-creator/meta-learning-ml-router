@@ -1,0 +1,42 @@
+Rows,Cols,Missing,Numeric,Categorical,BestModel
+150,5,0.0,5,0,Logistic Regression
+178,14,0.0,14,0,Random Forest
+569,31,0.0,31,0,Random Forest
+150,5,0.0,4,1,Logistic Regression
+768,9,0.0,8,1,SVM
+846,19,0.0,5,1,Decision Tree
+45312,9,0.0,7,2,Random Forest
+736,20,3.04,13,6,Random Forest
+3772,30,5.36,6,24,Decision Tree
+4601,58,0.0,57,1,Random Forest
+6430,37,0.0,36,1,Random Forest
+7797,618,0.0,617,1,Logistic Regression
+990,13,0.0,10,3,Random Forest
+748,5,0.0,1,1,Logistic Regression
+2600,501,0.0,500,1,Decision Tree
+34465,119,0.0,89,30,Random Forest
+2534,73,0.0,72,1,Random Forest
+5404,6,0.0,5,1,Random Forest
+1055,42,0.0,17,1,Random Forest
+5456,25,0.0,24,1,Decision Tree
+1941,34,0.0,23,1,Decision Tree
+7400,21,0.0,20,1,Logistic Regression
+569,31,0.0,30,1,Random Forest
+571,1301,0.0,1082,1,Random Forest
+48842,15,0.88,3,9,Logistic Regression
+48842,15,0.88,1,13,Logistic Regression
+1484,9,0.0,8,1,Random Forest
+4177,9,0.0,7,2,SVM
+1340,17,0.09,14,2,Random Forest
+412,9,2.59,4,5,Random Forest
+178,14,0.0,12,1,Logistic Regression
+10992,17,0.0,16,1,SVM
+5620,65,0.0,64,1,KNN
+690,16,0.61,6,10,Random Forest
+5473,11,0.0,10,1,Random Forest
+1000,21,0.0,1,14,Logistic Regression
+336,8,0.0,7,1,KNN
+208,61,0.0,60,1,Random Forest
+214,10,0.0,9,1,Random Forest
+303,14,0.17,6,8,Random Forest
+270,14,0.0,2,1,Logistic Regression
